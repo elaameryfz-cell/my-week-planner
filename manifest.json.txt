@@ -1,0 +1,10 @@
+{
+  "name": "My Week Planner",
+  "short_name": "Planner",
+  "start_url": "./My Week Planner.html",
+  "display": "standalone",
+  "background_color": "#f8f6f1",
+  "theme_color": "#0b1f3a",
+  "description": "Mon planning personnel",
+  "icons": []
+}
